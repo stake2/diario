@@ -684,67 +684,67 @@
 
 [[redirects]]
   from = "https://diario.netlify.app/eu/"
-  to = "https://thestake2.netlify.app/thestake2/"
+  to = "https://thestake2.netlify.app/stake2/"
   status = 301
   force = true
 
 [[redirects]]
   from = "https://diario.netlify.app/me/"
-  to = "https://thestake2.netlify.app/thestake2/"
+  to = "https://thestake2.netlify.app/stake2/"
   status = 301
   force = true
 
 [[redirects]]
   from = "https://diario.netlify.app/pages/me/"
-  to = "https://thestake2.netlify.app/thestake2/"
+  to = "https://thestake2.netlify.app/stake2/"
   status = 301
   force = true
 
 [[redirects]]
   from = "https://diario.netlify.app/pages/eu/"
-  to = "https://thestake2.netlify.app/thestake2/"
+  to = "https://thestake2.netlify.app/stake2/"
   status = 301
   force = true
 
 [[redirects]]
   from = "https://diario.netlify.app/izaque/"
-  to = "https://thestake2.netlify.app/thestake2/"
+  to = "https://thestake2.netlify.app/stake2/"
   status = 301
   force = true
 
 [[redirects]]
   from = "https://diario.netlify.app/isaque/"
-  to = "https://thestake2.netlify.app/thestake2/"
+  to = "https://thestake2.netlify.app/stake2/"
   status = 301
   force = true
 
 [[redirects]]
   from = "https://diario.netlify.app/isaac/"
-  to = "https://thestake2.netlify.app/thestake2/"
+  to = "https://thestake2.netlify.app/stake2/"
   status = 301
   force = true
 
 [[redirects]]
   from = "https://diario.netlify.app/sobre%20mim/"
-  to = "https://thestake2.netlify.app/thestake2/"
+  to = "https://thestake2.netlify.app/stake2/"
   status = 301
   force = true
 
 [[redirects]]
   from = "https://diario.netlify.app/about%20me/"
-  to = "https://thestake2.netlify.app/thestake2/"
+  to = "https://thestake2.netlify.app/stake2/"
   status = 301
   force = true
 
 [[redirects]]
   from = "https://diario.netlify.app/sobre_mim/"
-  to = "https://thestake2.netlify.app/thestake2/"
+  to = "https://thestake2.netlify.app/stake2/"
   status = 301
   force = true
 
 [[redirects]]
   from = "https://diario.netlify.app/about_me/"
-  to = "https://thestake2.netlify.app/thestake2/"
+  to = "https://thestake2.netlify.app/stake2/"
   status = 301
   force = true
 
